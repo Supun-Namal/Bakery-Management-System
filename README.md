@@ -13,7 +13,7 @@ It provides modules for user management and product tracking through an intuitiv
 
 * src/controller/: Contains logic for handling user inputs and system flow (e.g., LoginController, ProductController).
 * src/view/: Contains the GUI components and forms (e.g., LoginView, UserManagementView).
-* rc/model/: Defines data structures and business logic.
+* src/model/: Defines data structures and business logic.
 * src/database/: Handles database connections (e.g., DBConnection).
 * src/Images/: Stores graphical assets like logos and icons.
 
@@ -31,7 +31,7 @@ It provides modules for user management and product tracking through an intuitiv
 * Clone the repo:
 
 Bash
-git clone https://github.com/your-username/Fresh-Slice-5.git
+git clone https://github.com/Supun-Namal/Fresh-Slice-5.git
 
 * etup Database: Import the provided .sql file into your MySQL workbench to create the necessary tables.
 * Open & Run: Open the project in NetBeans and run App.java to start the application.

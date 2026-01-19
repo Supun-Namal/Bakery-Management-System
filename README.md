@@ -33,4 +33,11 @@ Graphical User Interface (GUI) design, and the Model-View-Controller (MVC) desig
 
 # Screenshots
 
-## Loading Screen
+##Login View
+https://github.com/Supun-Namal/Bakery-Management-System/blob/59db18a98623c2867c932f89ec2b5c03077ab41d/Screenshots/Login%20View.png
+
+##Manager View
+https://github.com/Supun-Namal/Bakery-Management-System/blob/59db18a98623c2867c932f89ec2b5c03077ab41d/Screenshots/Manager%20View.png
+
+##Assistant View
+https://github.com/Supun-Namal/Bakery-Management-System/blob/59db18a98623c2867c932f89ec2b5c03077ab41d/Screenshots/Assistant%20View.png

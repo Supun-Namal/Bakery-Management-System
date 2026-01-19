@@ -26,17 +26,6 @@ It provides modules for user management and product tracking through an intuitiv
 * IDE: NetBeans (Recommended) or IntelliJ IDEA.
 * Database: MySQL (Ensure the database is running as per the DBConnection settings).
 
-## Installation
-
-* Clone the repo:
-
-Bash
-git clone https://github.com/Supun-Namal/Fresh-Slice-5.git
-
-* etup Database: Import the provided .sql file into your MySQL workbench to create the necessary tables.
-* Open & Run: Open the project in NetBeans and run App.java to start the application.
-
-
 # Note
 
 This project was developed to demonstrate core Object-Oriented Programming (OOP) principles,
